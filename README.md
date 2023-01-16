@@ -1,6 +1,6 @@
 # Titanic-Data-Visualization
 
-###https://public.tableau.com/profile/shruti.rawat#!/vizhome/TitanicVisualization_1/Story1?publish=yes
+### https://public.tableau.com/profile/shruti.rawat#!/vizhome/TitanicVisualization_1/Story1?publish=yes
 
 ## Summary - 
 
